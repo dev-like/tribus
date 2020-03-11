@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'Bungee';
+  font-style: normal;
+  font-weight: 400;
+  src: url('Bungee-Regular.ttf');
+}
+@font-face {
+  font-family: 'MavenPro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('MavenPro-Regular.ttf');
+}
+@font-face {
+  font-family: 'MavenPro';
+  font-style: normal;
+  font-weight: 500;
+  src: url('MavenPro-Medium.ttf');
+}
+@font-face {
+  font-family: 'MavenPro';
+  font-style: normal;
+  font-weight: 700;
+  src: url('MavenPro-Bold.ttf');
+}
+}
+@font-face {
+  font-family: 'Scada';
+  font-style: italic;
+  font-weight: 700;
+  src: url('Scada-BoldItalic.ttf');
+}
+@font-face {
+  font-family: 'MavenPro';
+  font-style: normal;
+  font-weight: 800;
+  src: url('MavenPro-Black.ttf');
+}

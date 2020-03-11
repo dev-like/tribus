@@ -1,0 +1,32 @@
+footer{
+  background-color: #000 !important;
+  color: #fff;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+footer .localizacao,.facebook,.instagram{
+  display: flex;
+  align-items:center;
+  margin-top: 25px;
+}
+footer p.txt-coluna1 {
+  margin-left: 5px;
+}
+
+footer .whatsapp,.youtube,.email{
+  display: flex;
+  align-items: center;
+  margin-top: 25px;
+}
+footer p.txt-coluna2{
+  margin-left: 5px;
+}
+
+footer .coluna3{
+  margin-top: 25px;
+  background-image: url('../imagens/confetribus.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 131px;
+  /* width: 354px; */
+}

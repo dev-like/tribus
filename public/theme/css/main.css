@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body{
+  /* overflow-x: hidden; */
+  height: 100%;
+  background-color: #f6f6f6;
+  font-family: 'MavenPro';
+}
+::-webkit-scrollbar {
+  width: 10px;
+  height: 2px;
+  opacity: 0.75;
+  -webkit-border-radius: 16px;
+}
+
+::-webkit-scrollbar-track-piece {
+  background-color: #000;
+  opacity: 0.75;
+  -webkit-border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+  height: 2px;
+  background-color: none;
+  border: 1px solid #fff;
+  opacity: 0.75;
+  -webkit-border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+  width: 5px;
+  background-color: none;
+  border: 1px solid #fff;
+  opacity: 0.75;
+  -webkit-border-radius: 3px;
+}
+p{
+  font-family: 'MavenPro';
+}
+a{
+  outline: none;
+  text-decoration: none;
+  color: inherit;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'MavenPro';
+}
